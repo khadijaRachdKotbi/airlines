@@ -1,0 +1,8 @@
+kpi_name,current_value,target_value,unit,status
+Customer_Satisfaction_XGBoost,95.91,90,percent,✅ Atteint
+Customer_Satisfaction_SVM,91.21,90,percent,✅ Atteint
+Customer_Satisfaction_DistilBERT,89.19,85,percent,✅ Atteint
+Airports_Critical,4,0,count,⚠️ Action requise
+Chatbot_Resolution_Rate,85,90,percent,🟡 En cours
+Revenue_Growth_3_years,25,25,percent,🎯 Objectif
+Time_to_first_results,6,6,months,🎯 Objectif

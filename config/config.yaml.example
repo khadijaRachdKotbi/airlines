@@ -1,0 +1,64 @@
+# Configuration SQL Server
+sql:
+  server: "YOUR_SERVER_IP"
+  port: 1433
+  user: "YOUR_SQL_USER"
+  password: "YOUR_SQL_PASSWORD"
+  databases:
+    dwh: "airlines_dwh"
+    stg: "airlines_stg"
+  timeout: 30
+
+# Chemins des dossiers
+paths:
+  paths:
+  project_root: "/path/to/your/project"
+  data_dir: "dataSetAirlines"
+  raw_dir: "dataSetAirlines"
+  notebooks_dir: "notebooks"
+  sql_dir: "sql"
+  src_dir: "src"
+  results_nlp: "results_nlp"
+  results_dl: "results_dl"
+  results_chatbot: "results_chatbot"
+  # Dossiers (optionnels)
+  docs_dir: "docs"
+  reports_dir: "reports"
+  models_dir: "models"
+
+# Configuration ML
+ml:
+  random_state: 42
+  test_size: 0.2
+  validation_size: 0.1
+  n_folds: 5
+  scoring: "accuracy"
+
+# Configuration NLP (DistilBERT)
+nlp:
+  model_name: "distilbert-base-uncased"
+  max_length: 128
+  batch_size: 16
+  learning_rate: 0.00002
+  epochs: 3
+
+# Embeddings pour le chatbot
+embeddings:
+  model_name: "all-MiniLM-L6-v2"
+  dimension: 384
+
+# Configuration LLM
+llm:
+  model: "gpt-4"
+  temperature: 0.7
+  max_tokens: 1000
+
+# Visualisation
+visualization:
+  figure_size: [12, 8]
+  dpi: 150
+  style: "seaborn-v0_8-darkgrid"
+  colors:
+    positive: "#2ecc71"
+    negative: "#e74c3c"
+    neutral: "#95a5a6"

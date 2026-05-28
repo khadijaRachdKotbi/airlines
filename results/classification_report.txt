@@ -1,0 +1,17 @@
+============================================================
+RAPPORT DE CLASSIFICATION - Random Forest
+============================================================
+
+                         precision    recall  f1-score   support
+
+Neutral or Dissatisfied       0.94      0.96      0.95     14645
+              Satisfied       0.94      0.93      0.93     11253
+
+               accuracy                           0.94     25898
+              macro avg       0.94      0.94      0.94     25898
+           weighted avg       0.94      0.94      0.94     25898
+
+
+Dataset: airline_passenger_satisfaction.csv
+Taille: (129880, 24)
+Features: 23

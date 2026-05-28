@@ -1,0 +1,636 @@
+origin_norm,mean,count
+aberdeen,0.0,2
+abidjan,0.0,1
+zag,0.0,1
+abuja,0.0,2
+accra,0.0,4
+adana,0.0,1
+yul,0.0,2
+toulouse,0.0,3
+"bangkok,",0.0,1
+trondheim,0.0,1
+tunisia,0.0,1
+turkey,0.0,1
+london heahrow,0.0,1
+london stansted,0.0,2
+bastia,0.0,1
+basel,0.0,6
+kilaminjaro,0.0,1
+kinshasa,0.0,2
+kiyv,0.0,1
+lvov,0.0,2
+lusaka,0.0,2
+lviv,0.0,1
+luxor,0.0,1
+luxembourg,0.0,1
+bhm,0.0,1
+billund,0.0,3
+bergen,0.0,1
+tirana,0.0,1
+tel avivi,0.0,1
+thessaloniki,0.0,1
+krabi,0.0,2
+konya,0.0,1
+cairns,0.0,1
+bud,0.0,1
+st petersburgh,0.0,1
+sochi,0.0,1
+singapore changi,0.0,1
+strasbourg,0.0,1
+bruxelles,0.0,1
+bodrum,0.0,4
+svo,0.0,1
+tallinn,0.0,1
+bk,0.0,1
+bishkek,0.0,3
+bordeaux,0.0,2
+brisibane,0.0,1
+chc,0.0,1
+ceb,0.0,2
+kempegowda bengaluru,0.0,1
+keyseri,0.0,1
+ljubljana,0.0,4
+sharm el sheikh,0.0,1
+shenyang,0.0,1
+shiraz,0.0,1
+katowice,0.0,1
+kazan,0.0,3
+malé,0.0,3
+mahé,0.0,1
+mahe,0.0,1
+cancún,0.0,1
+canberra,0.0,3
+canada,0.0,1
+cameroon,0.0,1
+calgary,0.0,1
+marrakesh,0.0,2
+dalian,0.0,1
+prg,0.0,1
+pristina,0.0,2
+moscow-vnukovo,0.0,1
+psa,0.0,2
+itami,0.0,1
+rix,0.0,1
+saint petersburg,0.0,1
+saint-petersburg,0.0,1
+san,0.0,1
+san josé,0.0,1
+constanta,0.0,1
+santiago,0.0,1
+da nang,0.0,1
+dakar,0.0,1
+maun,0.0,1
+jed,0.0,2
+sao,0.0,1
+sapporo new chitose,0.0,1
+sav,0.0,1
+saskatoon,0.0,1
+"siam reap, cambodia",0.0,1
+catania,0.0,1
+senegal,0.0,1
+cologne,0.0,6
+cluj-napoca,0.0,2
+cluj,0.0,2
+clark,0.0,1
+chișinău,0.0,1
+chisinau,0.0,1
+china,0.0,1
+mad,0.0,1
+mashad,0.0,1
+jeddah,0.0,3
+johannesbug,0.0,1
+itm,0.0,1
+esb,0.0,1
+mombasa,0.0,2
+mle,0.0,2
+istanbul atatürk,0.0,1
+milan malpensa,0.0,1
+milano,0.0,1
+istambul,0.0,1
+ika,0.0,2
+india,0.0,1
+otp,0.0,1
+panama,0.0,2
+osaka kansai,0.0,1
+dubrovnik,0.0,2
+douala,0.0,2
+podgorica,0.0,1
+phoenix,0.0,1
+peshawar,0.0,1
+parís cdg,0.0,1
+paris-orly,0.0,1
+"paris, france",0.0,1
+detroit,0.0,6
+denver,0.0,1
+reunion,0.0,1
+rennes,0.0,1
+raleigh durham,0.0,1
+rabat,0.0,1
+pty,0.0,2
+led,0.0,1
+lej,0.0,1
+tokyo ta,0.0,1
+krakow,0.0,1
+valencia,0.0,2
+vilnius,0.0,4
+was,0.0,1
+vno,0.0,2
+adélaïde,0.0,1
+almaty,0.0,1
+alexandria,0.0,2
+nav,0.0,1
+baghdad,0.0,2
+united states,0.0,1
+antaya,0.0,1
+antanarivo,0.0,1
+"washington, dc",0.0,1
+alanya,0.0,1
+yaounde,0.0,1
+new u=york,0.0,1
+ncl,0.0,1
+"narita, tokyo",0.0,1
+nce,0.0,1
+antalia,0.0,1
+napoli,0.0,1
+narita tokyo,0.0,1
+hav,0.0,1
+ercan,0.0,1
+entebbe,0.0,5
+edmonton,0.0,3
+papeete,0.0,2
+panama city,0.0,2
+münchen,0.0,1
+new yok,0.0,1
+niamey,0.0,2
+nuremburg,0.0,1
+oporto,0.0,1
+odesa,0.0,2
+faisalabad,0.0,1
+fiji,0.0,1
+firenze,0.0,1
+fort de france,0.0,2
+fort lauderdale,0.0,2
+fortaleza,0.0,1
+gdansk,0.0,1
+ft lauderdale,0.0,1
+gla,0.0,1
+georgia,0.0,1
+nagpur,0.0,1
+hkd,0.0,1
+msp,0.0,1
+haj,0.0,1
+gyd,0.0,1
+haikou,0.0,1
+oran,0.0,1
+nakhchivan,0.0,1
+newcastle,0.09090909090909091,11
+malta,0.125,8
+tashkent,0.14285714285714285,7
+kayseri,0.14285714285714285,7
+malaga,0.16666666666666666,6
+bogota,0.18181818181818182,11
+karachi,0.1875,16
+seychelles,0.2,5
+guangzhou,0.2,5
+belgrade,0.2,10
+stuttgart,0.2,5
+tbilisi,0.23076923076923078,13
+antalya,0.23076923076923078,13
+tel aviv,0.23809523809523808,21
+gru,0.25,4
+waw,0.25,4
+durban,0.25,4
+new delhi,0.25,4
+naples,0.25,4
+florence,0.25,4
+buenos aires,0.25,4
+zürich,0.25,8
+tehran,0.25,16
+bologna,0.25,4
+athens,0.2553191489361702,47
+beirut,0.25925925925925924,27
+lisbon,0.2631578947368421,19
+barcelona,0.2647058823529412,34
+miami,0.2647058823529412,34
+bali,0.26666666666666666,15
+riyadh,0.2727272727272727,11
+moscow,0.2777777777777778,18
+birmingham,0.28,50
+istanbul,0.284789644012945,309
+hyderabad,0.2857142857142857,14
+fra,0.2857142857142857,7
+dalaman,0.2857142857142857,7
+baku,0.2857142857142857,7
+kochi,0.3,10
+cairo,0.3076923076923077,26
+chennai,0.3125,16
+male,0.3125,16
+newark,0.3125,32
+berlin,0.3157894736842105,19
+atlanta,0.3157894736842105,38
+dubai,0.32517482517482516,286
+amm,0.3333333333333333,3
+washington dc,0.3333333333333333,3
+gothenburg,0.3333333333333333,3
+hamburg,0.3333333333333333,15
+hurghada,0.3333333333333333,3
+havana,0.3333333333333333,3
+glasgow,0.3333333333333333,15
+odessa,0.3333333333333333,3
+fukuoka,0.3333333333333333,6
+freetown,0.3333333333333333,3
+iad,0.3333333333333333,6
+hyd,0.3333333333333333,3
+dallas fort-worth,0.3333333333333333,3
+riga,0.3333333333333333,3
+davao,0.3333333333333333,3
+dar es salaam,0.3333333333333333,3
+san jose,0.3333333333333333,3
+chitose,0.3333333333333333,3
+cebu,0.3333333333333333,15
+marseille,0.3333333333333333,6
+maldives,0.3333333333333333,3
+sarajevo,0.3333333333333333,3
+stansted,0.3333333333333333,3
+cancun,0.3333333333333333,3
+skopje,0.3333333333333333,3
+bru,0.3333333333333333,6
+trivandrum,0.3333333333333333,6
+abu dhabi,0.3333333333333333,12
+zurich,0.3469387755102041,49
+chicago,0.3488372093023256,86
+bucharest,0.35294117647058826,17
+rome,0.35294117647058826,34
+bahrain,0.35294117647058826,17
+phuket,0.36363636363636365,22
+sfo,0.36363636363636365,11
+new york,0.36666666666666664,120
+montreal,0.3684210526315789,38
+dusseldorf,0.3684210526315789,19
+oslo,0.3684210526315789,19
+bom,0.375,8
+nice,0.375,8
+phnom penh,0.375,8
+mauritius,0.38461538461538464,13
+paris cdg,0.391304347826087,46
+hanoi,0.4,10
+london gatwick,0.4,10
+sao paulo,0.4,5
+orlando,0.4,5
+washington,0.4067796610169492,59
+paris,0.41379310344827586,232
+jfk,0.4166666666666667,24
+kathmandu,0.42105263157894735,19
+warsaw,0.42105263157894735,19
+colombo,0.4230769230769231,26
+manchester,0.42718446601941745,103
+lyon,0.42857142857142855,7
+gatwick,0.42857142857142855,42
+izmir,0.42857142857142855,7
+dublin,0.42857142857142855,42
+bhx,0.42857142857142855,7
+london,0.43354430379746833,316
+ho chi minh,0.4375,16
+lahore,0.4375,16
+dallas,0.44,25
+amsterdam,0.4431818181818182,88
+dammam,0.4444444444444444,9
+cpt,0.4444444444444444,9
+brisbane,0.4482758620689655,58
+budapest,0.45,20
+brussels,0.45454545454545453,33
+ankara,0.45454545454545453,11
+zagreb,0.45454545454545453,11
+prague,0.45454545454545453,22
+toronto,0.4583333333333333,72
+dhaka,0.46153846153846156,26
+sofia,0.46153846153846156,13
+mumbai,0.4642857142857143,56
+johannesburg,0.4675324675324675,77
+lgw,0.47058823529411764,17
+san francisco,0.4782608695652174,92
+munich,0.4791666666666667,48
+madrid,0.48148148148148145,27
+ist,0.4838709677419355,31
+delhi,0.4883720930232558,43
+sydney,0.4965986394557823,147
+larnaca,0.5,2
+lax,0.5,10
+bali denpasar,0.5,2
+kuwait,0.5,24
+ulaanbaatar,0.5,2
+kosice,0.5,2
+vie,0.5,2
+vienna,0.5,34
+bengaluru,0.5,6
+marseilles,0.5,2
+marrakech,0.5,2
+mexico,0.5,2
+mia,0.5,2
+maa,0.5,2
+kabul,0.5,2
+kaohsiung,0.5,2
+bey,0.5,2
+bog,0.5,2
+cayenne,0.5,2
+eze,0.5,2
+cmb,0.5,6
+goa,0.5,2
+cmn,0.5,2
+saigon,0.5,2
+sgn,0.5,4
+muc,0.5,8
+hkt,0.5,2
+caracas,0.5,2
+najaf,0.5,2
+isb,0.5,2
+mla,0.5,2
+mogadishu,0.5,4
+hiroshima,0.5,2
+sapporo,0.5,4
+danang,0.5,2
+geneva,0.5,10
+washington dulles,0.5,2
+yangon,0.5,4
+penang,0.5,6
+wellington,0.5,4
+pisa,0.5,2
+dxb,0.5,32
+dus,0.5,6
+paris orly,0.5,6
+cph,0.5,10
+cts,0.5,2
+dac,0.5,2
+puj,0.5,2
+vce,0.5,4
+ath,0.5,4
+denpasar,0.5,36
+los angeles,0.5118110236220472,127
+auckland,0.5217391304347826,69
+copenhagen,0.5263157894736842,38
+melbourne,0.5339805825242718,103
+houston,0.5357142857142857,56
+milan,0.5365853658536586,41
+vancouver,0.5370370370370371,54
+singapore,0.5376623376623376,385
+dallas ft worth,0.5384615384615384,13
+bangkok,0.5437262357414449,263
+heathrow,0.5454545454545454,11
+amman,0.5454545454545454,11
+kiev,0.5454545454545454,11
+boston,0.55,40
+kuala lumpur,0.5512820512820513,78
+perth,0.5522388059701493,67
+venice,0.5555555555555556,18
+nairobi,0.5555555555555556,18
+stockholm,0.5555555555555556,27
+cape town,0.5581395348837209,43
+new york jfk,0.5652173913043478,46
+frankfurt,0.5662650602409639,83
+tokyo,0.5670103092783505,97
+seoul,0.5686274509803921,51
+beijing,0.5714285714285714,14
+addis ababa,0.5714285714285714,7
+jakarta,0.5714285714285714,77
+per,0.5714285714285714,14
+philadelphia,0.5714285714285714,14
+ho chi minh city,0.5714285714285714,21
+seattle,0.5806451612903226,31
+hong kong,0.5849802371541502,253
+london heathrow,0.5901639344262295,61
+hnd,0.6,10
+haneda,0.6,10
+txl,0.6,5
+khartoum,0.6,5
+mexico city,0.6,5
+dps,0.6,5
+adelaide,0.6086956521739131,23
+shanghai,0.6111111111111112,18
+cdg,0.6129032258064516,31
+mel,0.6153846153846154,26
+ams,0.6153846153846154,13
+taipei,0.6212121212121212,66
+bcn,0.625,8
+helsinki,0.6428571428571429,14
+hkg,0.6470588235294118,51
+mnl,0.65,20
+lhr,0.6551724137931034,58
+manila,0.6626506024096386,83
+algiers,0.6666666666666666,6
+zanzibar,0.6666666666666666,3
+surabaya,0.6666666666666666,6
+ayt,0.6666666666666666,3
+düsseldorf,0.6666666666666666,6
+ord,0.6666666666666666,6
+zrh,0.6666666666666666,6
+nagoya,0.6666666666666666,3
+busan,0.6666666666666666,3
+okinawa,0.6666666666666666,3
+são paulo,0.6666666666666666,3
+blq,0.6666666666666666,3
+maputo,0.6666666666666666,6
+lima,0.6666666666666666,3
+kyiv,0.6666666666666666,3
+tunis,0.6666666666666666,6
+mct,0.6666666666666666,3
+bombay,0.6666666666666666,3
+cochin,0.6666666666666666,6
+jnb,0.6666666666666666,3
+siem reap,0.6666666666666666,3
+mru,0.6666666666666666,3
+del,0.6666666666666666,12
+doha,0.6727272727272727,220
+sin,0.6727272727272727,55
+osaka,0.6875,16
+icn,0.6923076923076923,13
+doh,0.7,20
+kolkata,0.7,10
+syd,0.7083333333333334,24
+ahmedabad,0.7142857142857143,7
+kansai,0.7142857142857143,7
+edinburgh,0.7142857142857143,21
+tpe,0.7272727272727273,11
+islamabad,0.7333333333333333,15
+bkk,0.7368421052631579,38
+fco,0.75,8
+arn,0.75,4
+osl,0.75,4
+erbil,0.75,4
+tokyo haneda,0.75,28
+adl,0.75,4
+casablanca,0.75,4
+bos,0.75,4
+lagos,0.75,8
+honolulu,0.75,8
+narita,0.75,4
+man,0.76,25
+bangalore,0.7692307692307693,13
+iah,0.7777777777777778,9
+christchurch,0.7777777777777778,9
+tokyo narita,0.7916666666666666,24
+akl,0.8,5
+conakry,0.8,5
+dub,0.8,5
+muscat,0.8181818181818182,11
+incheon,0.8181818181818182,11
+pvg,0.8333333333333334,6
+edi,0.8333333333333334,6
+han,0.8333333333333334,6
+seoul incheon,0.8333333333333334,6
+nrt,0.85,20
+kigali,0.8571428571428571,7
+yvr,0.875,8
+cgk,0.875,8
+mxp,0.875,8
+yyz,0.875,8
+bne,0.8888888888888888,9
+kul,0.9090909090909091,22
+zvartnots,1.0,1
+atl,1.0,1
+auh,1.0,1
+aus,1.0,1
+ba,1.0,1
+bah,1.0,2
+uln,1.0,1
+usa,1.0,2
+akita,1.0,1
+amritsar,1.0,3
+wlg,1.0,2
+xi'an,1.0,1
+yaoundé,1.0,1
+denpasar bali,1.0,1
+dfw,1.0,2
+dme,1.0,1
+dmm,1.0,1
+pek,1.0,4
+phl,1.0,2
+pnh,1.0,1
+dur,1.0,1
+dushanbe,1.0,1
+orly,1.0,1
+ory,1.0,1
+osaka itami,1.0,1
+cork,1.0,1
+crk,1.0,1
+cun,1.0,1
+dallas fort worth,1.0,1
+point-a-pitre,1.0,1
+porto,1.0,1
+punta cana,1.0,1
+rgn,1.0,2
+flr,1.0,1
+franfurt,1.0,1
+gig,1.0,1
+giresun,1.0,1
+gmp,1.0,1
+nim,1.0,1
+nouakchott,1.0,1
+nue,1.0,1
+nuremberg,1.0,1
+okayama,1.0,3
+seoul incheaon,1.0,1
+clj,1.0,1
+coimbatore,1.0,1
+"colombo, sri lanka",1.0,1
+rio de janeiro,1.0,1
+rome fiumicino,1.0,1
+salalah,1.0,1
+salt lake city,1.0,1
+san diego,1.0,2
+cbr,1.0,1
+chengdu,1.0,2
+chiang mai,1.0,2
+chicago o'hare,1.0,1
+saw,1.0,1
+scq,1.0,1
+sea,1.0,2
+seoul gimpo,1.0,2
+seoul gmp,1.0,1
+okinawa naha,1.0,1
+gva,1.0,1
+ham,1.0,1
+hangzhou,1.0,1
+harare,1.0,1
+harbin,1.0,1
+new chitose (sapporo),1.0,1
+new dehli,1.0,1
+hnl,1.0,1
+huston,1.0,1
+nagasaki,1.0,2
+naha,1.0,1
+calicut,1.0,1
+can,1.0,1
+sha,1.0,1
+shanghai pudong,1.0,1
+sharjah,1.0,2
+singapoe,1.0,1
+cardiff,1.0,2
+nanjing,1.0,1
+ia,1.0,1
+irkutsk,1.0,1
+minsk,1.0,1
+montréal,1.0,1
+tallin,1.0,1
+tan son nhat,1.0,1
+bogotá,1.0,1
+sof,1.0,1
+southampton,1.0,1
+spain,1.0,1
+st louis,1.0,1
+st petersburg,1.0,1
+str,1.0,1
+sub,1.0,3
+mosco,1.0,1
+mrs,1.0,1
+iwakuni,1.0,1
+jarkata,1.0,1
+jeju,1.0,1
+jeju island,1.0,1
+jogjakarta,1.0,1
+jro,1.0,1
+mco,1.0,1
+medina,1.0,2
+biskek,1.0,1
+bjv,1.0,2
+blr,1.0,1
+sulaymaniyah,1.0,1
+svx,1.0,1
+sxm,1.0,2
+taif,1.0,1
+taipei taoyuan airport,1.0,1
+tak,1.0,2
+"mahé, seychelles",1.0,1
+makassar,1.0,1
+malaysia,1.0,1
+kansa,1.0,1
+kazakhstan,1.0,1
+tblisi,1.0,1
+tbs,1.0,1
+teheran,1.0,1
+tep,1.0,1
+thailand,1.0,1
+thiruvananthapuram,1.0,1
+tif,1.0,1
+tls,1.0,1
+berlin tegel,1.0,2
+berlin txl,1.0,1
+kbp,1.0,1
+kgl,1.0,1
+ljubliana,1.0,1
+lome,1.0,1
+london heatrhow,1.0,1
+kinmen,1.0,1
+kix,1.0,5
+kozikhode,1.0,1
+vko,1.0,1
+tokyo narita (nrt),1.0,1
+tokyo-haneda,1.0,1
+toyama,1.0,1
+tun,1.0,1
+bandar seri begawan,1.0,1
+"lagos, nigeria",1.0,1
+las,1.0,1
+las vegas,1.0,1
+lefkosa ecn,1.0,1
+lis,1.0,2
+ajaccio,1.0,1

@@ -1,0 +1,2 @@
+model_name,max_features,ngram_range,spacy_model,training_date,train_size,test_size,best_f1,best_accuracy
+Logistic Regression,5000,"(1, 2)",en_core_web_sm,2026-05-25 01:28:30,6480,1620,0.8817891373801917,0.8858024691358025
