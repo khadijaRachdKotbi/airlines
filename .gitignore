@@ -30,6 +30,9 @@ models/*.joblib
 models/*.h5
 models/*.pt
 models/*.pth
+models/*.safetensors
+results_dl/distilbert_sentiment_model/
+results_chatbot/chatbot.pkl
 models/*/
 !models/.gitkeep
 
