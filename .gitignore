@@ -54,4 +54,10 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
-*.swo
+*.swopowerbi_data/
+*.pbix
+*.pbit
+Airlines_*_Data.xlsx
+generate_pbix.py
+create_powerbi_excel.py
+powerbi_data/ echo README_PBIX.md
