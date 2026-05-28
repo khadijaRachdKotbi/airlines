@@ -1,0 +1,9 @@
+intent,question_count,resolution_rate
+reservation,25,92
+cancellation,20,88
+baggage,18,85
+delay,15,82
+complaint,12,78
+loyalty,10,90
+checkin,8,95
+connecting,7,80

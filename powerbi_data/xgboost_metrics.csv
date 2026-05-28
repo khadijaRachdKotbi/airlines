@@ -1,0 +1,6 @@
+model_name,metric_type,metric_value,metric_percent
+XGBoost,Accuracy,0.9650,96.50
+XGBoost,Precision,0.9736,97.36
+XGBoost,Recall,0.9450,94.50
+XGBoost,F1_Score,0.9591,95.91
+XGBoost,ROC_AUC,0.9955,99.55
