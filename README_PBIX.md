@@ -2,23 +2,7 @@
 
 ## ⭐ MÉTHODE CHOISIS
 
-## 📁 Fichiers csv résultats modèles ML/DL pour Power BI
-
-## 📊 Feuilles incluses
-
-| # | Feuille | Contenu |
-|---|---------|---------|
-| 1 | XGBoost_Metrics | Métriques XGBoost |
-| 2 | Models_Comparison | Comparaison des modèles |
-| 3 | Airports | Satisfaction par aéroport |
-| 4 | Features | Feature importance |
-| 5 | Chatbot | Métriques chatbot |
-| 6 | Business_KPIs | KPIs business |
-| 7 | 📋 Instructions | Instructions détaillées |
-| 8 | 📐 DAX_Measures | Formules DAX à copier |
-| 9 | 📈 KPIs | KPIs consolidés |
-| 10 | 💡 Recommandations | Actions prioritaires |
-| 11 | 🎨 Visuels_Config | Configuration des visuels |
+## 📁 Fichiers dwh (groupe) + csv résultats modèles ML/DL pour Power BI
 
 ## 🚀 Pages du Dashboard
 
