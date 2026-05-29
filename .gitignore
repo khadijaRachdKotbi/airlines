@@ -37,8 +37,12 @@ models/*/
 !models/.gitkeep
 
 # Reports
-reports/figures/*
-reports/figures/.gitkeep
+reports/figures/*.tmp*.tmp*
+reports/figures/*.tmp*.tmp.gitkeep
+reports/figures/*.tmp
+reports/figures/*.log
+!reports/figures/*.png
+!reports/figures/.gitkeep
 
 # Config
 config/.env
