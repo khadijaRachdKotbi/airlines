@@ -1,24 +1,10 @@
-# Dashboard Power BI - Fichiers Générés
+# Dashboard Power BI
 
-## ⭐ MÉTHODE RECOMMANDÉE
+## ⭐ MÉTHODE CHOISIS
 
-## 📁 Fichier Excel complet pour Power BI
+## 📁 Fichiers csv résultats modèles ML/DL pour Power BI
 
-| Fichier | Taille | Description |
-|---------|--------|-------------|
-| `Airlines_PowerBI_Data.xlsx` | **21 KB** | **Fichier Excel complet prêt à utiliser** ⭐ |
-
-### Comment utiliser
-
-1. **Ouvrez Power BI Desktop**
-2. **Obtenir des données > Classeur Excel**
-3. Sélectionnez `Airlines_PowerBI_Data.xlsx`
-4. **Sélectionnez toutes les feuilles**
-5. **Charger**
-6. Copiez les mesures DAX depuis la feuille `📐 DAX_Measures`
-7. Créez les visuels selon la feuille `🎨 Visuels_Config`
-
-## 📊 Feuilles incluses (11 feuilles)
+## 📊 Feuilles incluses
 
 | # | Feuille | Contenu |
 |---|---------|---------|
@@ -37,20 +23,17 @@
 ## 🚀 Pages du Dashboard
 
 ### 1. Executive
-- 4 Cartes KPI: XGBoost (95.91%), SVM (91.21%), DistilBERT (89.19%), Global (93.5%)
-- 1 Jauge: Score global vs objectif 90%
-- 3 Cartes: Aéroports critiques (3), Chatbot (85%), ROI (+25%)
+- 4 Cartes KPI: XGBoost, SVM , DistilBERT , Global 
+- 1 Jauge: Score global vs objectif
+- 3 Cartes: Aéroports critiques, Chatbot, ROI à atteindre (+25%)
 
 ### 2. Performance Modèles
 - Tableau comparatif des modèles
 - Graphique radar (Accuracy, Precision, Recall, F1, ROC-AUC)
 - Graphique barres: Feature importance
 
-### 3. Analyse Sentiment
-- Utilisez les images `wordcloud_positive.png` et `wordcloud_negative.png`
-
 ### 4. Analyse Aéroports
-- Top 5 pires aéroports (Newcastle: 9.1%, Bogota: 18.2%, Karachi: 18.8%)
+- Top 5 pires aéroports
 - Top 5 meilleurs aéroports
 
 ### 5. Chatbot Insights
@@ -62,7 +45,7 @@
 - Délai: 6 mois
 - Recommandations prioritaires
 
-## 📝 Mesures DAX (à copier dans Power BI)
+## 📝 Mesures DAX (Power BI)
 
 ```
 XGBoost_F1 = 95.91
