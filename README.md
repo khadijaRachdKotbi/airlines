@@ -87,13 +87,6 @@ airlines/
 │   ├── 04_nlp_sentiment.ipynb      # Analyse NLP sentiments
 │   ├── 05_dl_distilbert.ipynb      # Deep Learning DistilBERT
 │   └── 06_chatbot_assistant.ipynb  # Chatbot assistant
-├── 🤖 src/                         # Code source ML & NLP
-│   └── models/                     # Modèles et utilitaires
-├── 📂 data/                        # Structure des données
-│   ├── raw/                        # Données brutes
-│   ├── processed/                  # Données traitées
-│   └── features/                   # Features extraites
-├── 💾 models/                      # Modèles entraînés
 ├── 📄 sql/                         # Scripts SQL
 │   ├── 00_overview_tables.sql     # Vue d'ensemble tables
 │   ├── 01_extraction_dwh.sql       # Extraction Data Warehouse
